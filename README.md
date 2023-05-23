@@ -7,5 +7,6 @@
 ![image](https://github.com/ktshglsm/social-media/assets/80331504/26ce5a13-c481-41b1-a147-4df28939e9ae)
 # Responsive
 ![image](https://github.com/ktshglsm/social-media/assets/80331504/15c55dba-22ab-4ee9-98bd-b9bca4b35296)
-![image](https://github.com/ktshglsm/social-media/assets/80331504/c22b6740-c45f-41cc-804b-63bc686d895e)
+![image](https://github.com/ktshglsm/social-media/assets/80331504/06dda13a-6ea3-46aa-afe1-2be8916934a8)
+
 
